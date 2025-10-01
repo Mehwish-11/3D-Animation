@@ -16,7 +16,7 @@ This project showcases smooth 3D effects, transitions, and animations to deliver
 🧩 Modular Structure – Easy-to-read and customizable code.
 
 
-🛠️ Technologies 
+🛠️ Technologies used
 
 HTML5 – Semantic structure and layout.
 
