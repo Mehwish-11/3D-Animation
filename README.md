@@ -3,7 +3,6 @@
 A modern and interactive 3D animation website built using HTML, CSS, and JavaScript.
 This project showcases smooth 3D effects, transitions, and animations to deliver a visually engaging user experience.
 
-
 🚀 Features
 
 🎨 3D Animations – Smooth transitions and effects using CSS3 & JavaScript.
